@@ -1,3 +1,3 @@
 # helper
-- hello 
+- react 
 - next js 
